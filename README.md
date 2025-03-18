@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan Karnati</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on **Hashedbit infotech** as a technical intern
+- 🔭 I’m currently working in **Hashedbit Infotech** as a technical intern
 
 - 🌱 I’m currently learning **React Native**
 
