@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **AI Insitute of University of South Carolina** as a research intern.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Django, DRF, React.**
 
