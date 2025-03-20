@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan Karnati</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
-- 🔭 I’m currently working at **AI Insitute of University of South Carolina** as a research intern.
+- 🔭 I’m currently working at **AI Institute, University of South Carolina** as a research intern.
 
 - 🌱 I’m currently learning **Agentic AI**
 
