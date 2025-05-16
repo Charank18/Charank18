@@ -9,15 +9,23 @@ Looking forward to working with you on some quality projects...
 
 ---
 
-🌐 **Socials:**
+## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-karnati-852884215/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@charankarnati180604)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30559331/charan-karnati)
+<p>
+  <a href="https://www.linkedin.com/in/charan-karnati-852884215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@charankarnati180604">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/30559331/charan-karnati">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-💻 **Tech Stack:**
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -36,7 +44,7 @@ Looking forward to working with you on some quality projects...
 
 ---
 
-📊 **GitHub Stats:**
+## 📊 GitHub Stats
 
 ![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charank18&show_icons=true&theme=tokyonight)  
 ![Charan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charank18&theme=tokyonight)  
@@ -44,12 +52,12 @@ Looking forward to working with you on some quality projects...
 
 ---
 
-🏆 **GitHub Trophies**
+## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Charank18&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
-✍️ **Dev Quote**
+## ✍️ Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
