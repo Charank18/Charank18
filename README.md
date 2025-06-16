@@ -5,7 +5,7 @@ Looking forward to working with you on some quality projects...
 🛰️ I’m currently working on the ViBe full stack AI project
  I’m looking to collaborate on Data Science and Linux Projects  
 🤝 I’m looking for help with MLOps, Django  
-🌱 I’m currently learning about LLMs & NLP
+🌱 I’m currently learning about Language models
   
 ---
 
