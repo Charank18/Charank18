@@ -1,6 +1,6 @@
 # Hi, this is Charan Karnati...
 
-Looking forward to working with you on some quality projects...
+Looking forward to working with you on some quality projects..
 
 🛰️ I’m currently working on the ViBe full stack AI project
  I’m looking to collaborate on Gneerative AI projects 
