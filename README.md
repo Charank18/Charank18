@@ -2,7 +2,7 @@
 
 I'm a B.Tech Computer Science & Engineering student at NIT Andhra Pradesh (CGPA: 9.07, 2022-2026), passionate about Graph Theory, Quantum Computing, Generative AI, and LLM Safety. I build innovative solutions using ReactJS, Node.js, Python, and Machine Learning frameworks, with hands-on experience in full-stack development and research.
 
-Currently, I'm a Student Research Intern at IIT Ropar and AIISC, University of South Carolina, working on AI-driven tools, multi-agent systems, and meta-heuristic algorithms for NP-Hard problems.
+Currently, I'm a Student Research Intern at IIT Ropar working on AI-driven tools, multi-agent systems, and meta-heuristic algorithms for NP-Hard problems.
 
 🌟 I scored in the top 0.1% in the NPTEL Cloud Computing course among 30,000+ participants!
 ---
