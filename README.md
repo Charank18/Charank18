@@ -4,7 +4,7 @@ I'm a B.Tech Computer Science & Engineering student at NIT Andhra Pradesh (CGPA:
 
 Currently, I'm a Software Engineer Intern at Annam AI and a Student Research Intern at IIT Ropar and AIISC, University of South Carolina, working on AI-driven tools, multi-agent systems, and meta-heuristic algorithms for NP-Hard problems.
 
-🌟 Fun Fact: I scored in the top 0.1% in the NPTEL Cloud Computing course among 30,000+ participants!
+🌟 I scored in the top 0.1% in the NPTEL Cloud Computing course among 30,000+ participants!
 ---
 
 ## 🌐 Socials
