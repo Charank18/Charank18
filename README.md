@@ -59,24 +59,6 @@ Previously, at **NIT Warangal**, I worked on meta-heuristic algorithms for the Q
 
 ---
 
-## 📊 GitHub Stats (Working 2025 URLs)
-
-### 🔹 Overall Stats
-![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charank18&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-### 🔹 Streak Stats (New Working Domain)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Charank18&theme=tokyonight)
-
-### 🔹 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charank18&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies (Fully Working)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Charank18&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ## ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
