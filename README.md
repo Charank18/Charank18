@@ -20,12 +20,13 @@ Previously, at **NIT Warangal**, I worked on meta-heuristic algorithms for the Q
 ---
 
 ## 🌟 Achievements
-- Scored **Top 0.1%** in NPTEL Cloud Computing among 30,000+ participants  
+- Ranked **Top 0.1%** in NPTEL Cloud Computing among 30,000+ participants  
 - First-author publications in **RAIRO-ITA**, **IEEE ICCCNT**, **MCCS 2025**
 
 ---
 
 ## 🌐 Socials
+
 <p>
   <a href="https://www.linkedin.com/in/charan-karnati-852884215/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,6 +42,7 @@ Previously, at **NIT Warangal**, I worked on meta-heuristic algorithms for the Q
 ---
 
 ## 💻 Tech Stack
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
@@ -57,16 +59,20 @@ Previously, at **NIT Warangal**, I worked on meta-heuristic algorithms for the Q
 
 ---
 
-## 📊 GitHub Stats
-![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charank18&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats (Working 2025 URLs)
 
-![Charan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charank18&theme=tokyonight)
+### 🔹 Overall Stats
+![Charan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charank18&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
+### 🔹 Streak Stats (New Working Domain)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Charank18&theme=tokyonight)
+
+### 🔹 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charank18&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Fully Working)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Charank18&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
@@ -74,3 +80,7 @@ Previously, at **NIT Warangal**, I worked on meta-heuristic algorithms for the Q
 ## ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+
+### 🚀 Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me!
