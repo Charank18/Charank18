@@ -1,8 +1,24 @@
-👋 Hi, I'm Charan Karnati!
+I am Charan Karnati, a Computer Science Engineer passionate about algorithms, artificial intelligence, and quantum computing, with experience spanning research labs, academic institutes, and AI startups.
 
-I'm a B.Tech Computer Science & Engineering student at NIT Andhra Pradesh (CGPA: 9.07, 2022-2026), passionate about Graph Theory, Quantum Computing, Generative AI, and LLM Safety. I build innovative solutions using ReactJS, Node.js, Python, and Machine Learning frameworks, with hands-on experience in full-stack development and research.
+My work focuses on solving NP-hard optimization problems, designing quantum-inspired algorithms, and building LLM-driven systems for real-world applications. I have published as first author in international journals and IEEE conferences on topics including graph domination problems, quantum key distribution, and quantum optimization.
 
-Currently, I'm a Student Research Intern at IIT Ropar working on AI-driven tools, multi-agent systems, and meta-heuristic algorithms for NP-Hard problems.
+At Annam.AI (IIT Ropar), I fine-tuned large language models (DeepSeek 70B) for educational content generation and built scalable AI pipelines deployed on GCP. At the Artificial Intelligence Institute of South Carolina, I developed an LLM-based multi-agent simulation framework to model complex urban dynamics using interpretable agent behavior.
+
+Previously, at NIT Warangal, I worked on meta-heuristic algorithms for the Quasi Total Double Roman Domination Problem, achieving a 97% success rate across datasets.
+
+My interests lie at the intersection of:
+
+Quantum Computing & Cryptography
+
+Combinatorial Optimization & Algorithms
+
+LLM-based Intelligent Systems
+
+Generative AI & Enterprise AI
+
+I aim to pursue advanced research in quantum algorithms, theoretical computer science, and AI security, building systems that are both scalable and mathematically grounded.
+
+Always curious. Always exploring patterns — from classical algorithms to quantum complexity.
 
 🌟 I scored in the top 0.1% in the NPTEL Cloud Computing course among 30,000+ participants!
 ---
