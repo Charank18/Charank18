@@ -32,9 +32,6 @@ Previously, at **NIT Warangal**, I worked on meta-heuristic algorithms for the Q
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://stackoverflow.com/users/30559331/charan-karnati">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
 </p>
 
 ---
