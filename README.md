@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charan Karnati
 
-I am a Computer Science Engineer passionate about **algorithms, artificial intelligence, and quantum computing**, with experience across research labs, academic institutes, and AI startups.
+I am a Computer Science Engineer passionate about full-stack  development, artificial intelligence, and quantum computing**, with experience across research labs, academic institutes, and AI startups.
 
 My work focuses on solving **NP-hard optimization problems**, developing **quantum-inspired algorithms**, and building **LLM-driven intelligent systems**. I have published as **first author** in international journals and IEEE conferences on topics including graph domination problems, quantum key distribution, and quantum optimization.
 
