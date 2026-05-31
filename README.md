@@ -12,7 +12,7 @@ Previously, at **NIT Warangal**, I worked on meta-heuristic algorithms for the Q
 ---
 
 ## 🔍 Research Interests
-- ** Full Stack Development
+- **Full Stack Development
 - **Quantum Computing & Cryptography**  
 - **Combinatorial Optimization & Algorithms**  
 - **LLM-based Multi-Agent Systems**  
